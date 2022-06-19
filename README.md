@@ -8,4 +8,4 @@
 * [LinkedIn](https://www.linkedin.com/in/thiago-olivieri)
 
 ## Projetos:
-* **Analise Airbnb - San Francisco** - https://bit.ly/3xADHH7
+* **Análise Airbnb - San Francisco** - https://bit.ly/3xADHH7
